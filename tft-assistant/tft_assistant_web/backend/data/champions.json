@@ -1,0 +1,23 @@
+{
+    "Annie": {
+        "traits": ["Arcade", "Battlecast"],
+        "cost": 1,
+        "recommended_items": ["Guinsoo's Rageblade", "Jeweled Gauntlet", "Rabadon's Deathcap"],
+        "description": "The Dark Child",
+        "img_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_0.jpg"
+    },
+    "Ashe": {
+        "traits": ["Iconic", "Concrete Canvas"],
+        "cost": 1,
+        "recommended_items": ["Infinity Edge", "Last Whisper", "Jeweled Gauntlet"],
+        "description": "The Frost Archer",
+        "img_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_0.jpg"
+    },
+    "Garen": {
+        "traits": ["AnimaTech", "Crime City Nightmare"],
+        "cost": 2,
+        "recommended_items": ["Titan's Resolve", "Sunfire Aegis", "Guardian Angel"],
+        "description": "The Might of Demacia",
+        "img_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_0.jpg"
+    }
+}
